@@ -53,6 +53,10 @@
 
 <h1 align="center"></h1>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahzaibskp" alt="shahzaibskp" /></a> </p>
+
+<h1 align="center"></h1>
+
 <h3 align="center">💫 Thanks for visiting my profile — let’s connect and build the future together! ⚙️</h3>
 
 <p align="center" dir="auto">
